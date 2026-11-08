@@ -79,11 +79,11 @@ Refer to [this guide](https://docs.aws.amazon.com/bedrock/latest/userguide/getti
 
 To deploy the project to your AWS account, first create a repository in your GitHub account using this project as a starter:
 
-[Create repository from template](https://github.com/new?owner=aws-samples&template_name=stream-ai-assistant-using-bedrock-converse-with-tools&template_owner=aws-samples) 🪄
+[Create repository from template](https://github.com/new?owner=aws-samples&template_name=stream-ai-assistant-using-bedrock-converse-with-tools&template_owner=aws-samples)
 
 Use the form in GitHub to finalize your repo's creation. Now that the repository has been created, deploy it with Amplify:
 
-[Deploy to AWS](https://console.aws.amazon.com/amplify/create/repo-branch) 🚀
+[Deploy to AWS](https://console.aws.amazon.com/amplify/create/repo-branch)
 
 Select GitHub. After you give Amplify access to your GitHub account via the popup window, pick the repository and `main` branch to deploy. Make no other changes and click through the flow to "Save and deploy".
 
